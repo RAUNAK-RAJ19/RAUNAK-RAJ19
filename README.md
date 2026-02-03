@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **rounakraj783@gmail.com** For Collaboration/Project or Any
 - 🌱 **I’m currently learning: DeepLearning, Tensorflow, AWS
 - 💬 **Ask me about: Python, ML Projects, Cloud Computing & Deployment
 - 📫 **How to reach me:** rounakraj783@gmail.com
-- 😄 **Pronouns:** Raunak
 - ⚡ **Fun fact:** I Love Simulation Games and Bike Riding
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounakraj783@gmail.com) 
