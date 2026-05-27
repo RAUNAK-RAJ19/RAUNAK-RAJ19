@@ -4,7 +4,7 @@ Aspiring Data Scientist || AI/ML Learner || Cloud Learner From India 🇮🇳
 Email Me 👉 ✉️ **rounakraj783@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Personal Projects in AI/ML, Data Science
-- 🌱 **I’m currently learning: DeepLearning, Tensorflow, AWS
+- 🌱 **I’m currently learning: GenAI, LLM, AWS
 - 💬 **Ask me about: Python, ML Projects, GenAI & Deployment
 - 📫 **How to reach me:** rounakraj783@gmail.com
 - ⚡ **Fun fact:** I Love Simulation Games and Bike Riding
